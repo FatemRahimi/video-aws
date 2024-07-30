@@ -5,7 +5,7 @@ import { AppContext } from "../App";
 
 const Home = () => {
   const {
- 
+    videos,
     setVideos,
     isLoading,
     setIsLoading,
