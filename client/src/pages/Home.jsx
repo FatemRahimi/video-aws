@@ -33,7 +33,7 @@ const Home = () => {
     isDirecting,
     setIsLoading,
     setIsSearching,
-   
+    setVideos,
   ]);
 
   return (
